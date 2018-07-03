@@ -1,1 +1,1 @@
-# Hands-on-machine-learning-solutions
+# Hands-on-machine-learning-solutions - without pipeline
