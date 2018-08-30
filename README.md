@@ -1,2 +1,2 @@
-# Hands-on-machine-learning-examples - work in progress
-Examples and solutions to Aurélien Géron's Hands-On machine learning with scikit-learn & tensorflow
+# House price estimation using regression
+Dataset and problem description from Hands on machine learning with scikitlearn and tensorflow
